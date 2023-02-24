@@ -9,7 +9,10 @@
   <img align="left" alt="Perwak Telegram" width="22px" src="./icon/telegram.svg" />
 </a>
 
+
+
 <br />
+
 
 Я, Junior Frontend-разработчик👨‍💻. Хочу делать понятный и удобный интерфейс🙈. Осваиваю React и планирую освоить другие фреймворки👨‍🎓. Открыт для новых, интересных проектов📂. Стремлюсь поднять свои знания в веб-разработке🌐!
 
@@ -25,7 +28,7 @@
 
 <br />
 
-### Моя статистика
+### Моя статистика📝
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Rumpil666&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Rumpil666&hide=contribs&show_icons=true" />
