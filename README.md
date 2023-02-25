@@ -8,7 +8,7 @@
 <a href="https://t.me/perwak">
   <img align="left" alt="Perwak Telegram" width="22px" src="./icon/telegram.svg" />
 </a>
-<a href="rumpil666@gmail.com">
+<a href="mailto:rumpil666@gmail.com">
   <img align="left" alt="Perwak Mail" width="22px" src="./icon/gmail.svg" />
 </a>
 
