@@ -28,6 +28,8 @@
   <img align="left" alt="Perwak Mail" width="22px" src="./icon/gmail.svg" />
 </a>
 
+<br />
+
 ### Моя статистика📝
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Rumpil666&hide=contribs&show_icons=true">
