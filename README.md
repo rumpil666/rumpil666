@@ -12,8 +12,6 @@
 <img src="./icon/figma.svg" alt="Figma" height="24" >
 </p>
 
-<br />
-
 ### Контакты 📩
 <a href="https://www.instagram.com/too.shaaa/">
   <img align="left" alt="Perwak Instagram" width="22px" src="./icon/instagram.svg" />
