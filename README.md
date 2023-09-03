@@ -7,7 +7,9 @@
 <img src="./icon/vsCode.svg" alt="VS Code" height="24">
 <img src="./icon/html.svg" alt="HTML" height="24">
 <img src="./icon/css.svg" alt="CSS" height="24">
+<img src="./icon/scss.svg" alt="scss" height="24">
 <img src="./icon/javascript.svg" alt="JavaScript" height="24">
+<img src="./icon/ts.svg" alt="TypeScript" height="24">
 <img src="./icon/react.svg" alt="React" height="24">
 <img src="./icon/figma.svg" alt="Figma" height="24" >
 </p>
